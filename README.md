@@ -162,7 +162,7 @@ Have a project, an idea, or just want to talk tech? I'm always happy to connect.
 | Platform | Link |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/NileshKumar](https://linkedin.com/in/NileshKumar) |
-| 🦋 Bluesky | [bsky.app/profile/nileshkumar](https://bsky.app/profile/nileshkumar) |
+| 🦋 Bluesky | [[bsky.app/profile/nileshkumar](https://bsky.app/profile/nileshkumar23240.bsky.social)](https://bsky.app/profile/nileshkumar) |
 | 📸 Instagram | [instagram.com/nilesh.dev](https://instagram.com/nilesh.dev) |
 | 💬 Discord | [Join my community](https://discord.gg/nileshdesigns) |
 
